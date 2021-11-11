@@ -1,8 +1,8 @@
 {
     "profile": "data-package",
-    "name": "collectionbuilder-csv-data",
-    "title": "CollectionBuilder CSV Data",
-    "description": "Metadata and data derived from CollectionBuilder CSV. CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology.",
+    "name": "shawn-plays-with-collectionbuilder-csv-data",
+    "title": "Shawn Plays With CollectionBuilder CSV Data",
+    "description": "Metadata and data derived from Shawn Plays With CollectionBuilder CSV. yeah! yeah! yeah!",
     "keywords":  ["idaho","history","inland northwest"],
     "homepage": "https://shawngraham.github.io/test-collectionbuilder/",
     "contributors": [
@@ -25,7 +25,7 @@
         {
             "name": "facets-json",
             "path": "facets.json",
-            "title": "CollectionBuilder CSV Metadata Facets",
+            "title": "Shawn Plays With CollectionBuilder CSV Metadata Facets",
             "description":"Unique values and counts of metadata facet fields.",
             "format":"json",
             "profile": "data-resource"
@@ -34,7 +34,7 @@
         {
             "name": "subject-csv",
             "path": "subjects.csv",
-            "title": "CollectionBuilder CSV metadata subject counts in csv",
+            "title": "Shawn Plays With CollectionBuilder CSV metadata subject counts in csv",
             "description": "Unique values and counts of metadata subject fields.",
             "format":"csv",
             "profile":"tabular-data-resource",
@@ -61,7 +61,7 @@
         {
             "name": "subjects-json",
             "path": "subjects.json",
-            "title": "CollectionBuilder CSV  metadata subject counts in json",
+            "title": "Shawn Plays With CollectionBuilder CSV  metadata subject counts in json",
             "description":"Unique values and counts of metadata subject fields.",
             "format":"json",
             "profile": "data-resource"
@@ -70,7 +70,7 @@
         {
             "name": "locations-csv",
             "path": "subjects.csv",
-            "title": "CollectionBuilder CSV metadata location counts in csv",
+            "title": "Shawn Plays With CollectionBuilder CSV metadata location counts in csv",
             "description": "Unique values and counts of metadata location fields.",
             "format":"csv",
             "profile":"tabular-data-resource",
@@ -97,7 +97,7 @@
         {
             "name": "locations-json",
             "path": "locations.json",
-            "title": "CollectionBuilder CSV metadata location counts in json",
+            "title": "Shawn Plays With CollectionBuilder CSV metadata location counts in json",
             "description":"Unique values and counts of metadata location fields.",
             "format":"json",
             "profile": "data-resource"
@@ -106,7 +106,7 @@
         {
             "name": "geodata-json",
             "path": "geodata.json",
-            "title": "CollectionBuilder CSV geographic metadata",
+            "title": "Shawn Plays With CollectionBuilder CSV geographic metadata",
             "description": "Geojson data containing all objects with lat-longs and associated descriptive metadata.",
             "format":"json",
             "profile": "data-resource"
@@ -115,7 +115,7 @@
         {
             "name": "timeline-json",
             "path": "timelinejs.json",
-            "title": "CollectionBuilder CSV timeline metadata",
+            "title": "Shawn Plays With CollectionBuilder CSV timeline metadata",
             "description": "Time-based metadata formatted for TimelineJS or other applications.",
             "format":"json",
             "profile": "data-resource"
@@ -123,16 +123,16 @@
         {
             "name": "metadata-csv",
             "path": "metadata.csv",
-            "title": "CollectionBuilder CSV full metadata in csv",
-            "description": "Complete metadata export for CollectionBuilder CSV objects.",
+            "title": "Shawn Plays With CollectionBuilder CSV full metadata in csv",
+            "description": "Complete metadata export for Shawn Plays With CollectionBuilder CSV objects.",
             "format":"csv",
             "profile":"data-resource"
         },
         {
             "name": "metadata-json",
             "path": "metadata.json",
-            "title": "CollectionBuilder CSV full metadata in json",
-            "description": "Complete metadata export for CollectionBuilder CSV objects.",
+            "title": "Shawn Plays With CollectionBuilder CSV full metadata in json",
+            "description": "Complete metadata export for Shawn Plays With CollectionBuilder CSV objects.",
             "format":"json",
             "profile":"data-resource"
         }
