@@ -19,7 +19,7 @@ var store = [{
 "id": "example_007"
 
 },{  
-"title": "I.3.30 Pompeii. Small house. Excavated 1872.","date": "79","creator": "Pompeii in Pictures","description": "I.3.30 Pompeii. Entrance fauces or corridor looking north, across the west portico of the peristyle garden.","subject": "Pompeii location of skeletons","location": "Pompeii", 
+"title": "I.3.30 Pompeii. Small house. Excavated 1872.","date": "0079-10-24","creator": "Pompeii in Pictures","description": "I.3.30 Pompeii. Entrance fauces or corridor looking north, across the west portico of the peristyle garden.","subject": "Pompeii location of skeletons","location": "Pompeii", 
 "id": "example_008"
 
 }];

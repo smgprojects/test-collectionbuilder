@@ -8,8 +8,8 @@
         "url": "https://www.lib.uidaho.edu/digital/", 
         "logo": "https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png" 
     },
-    "date_start": "1905",
-    "date_end": "79",
+    "date_start": "0079",
+    "date_end": "2014",
     "objects": {
         "audio/mpeg": "1",
         "video/mp4": "2",
