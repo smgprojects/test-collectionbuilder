@@ -1,0 +1,40 @@
+{
+    "facets": [ 
+        {
+            "field": "subject",
+            "terms": { 
+                "frank b. robinson": 1,
+                "failure": 1,
+                "success": 1,
+                "material abundance": 1,
+                "american football": 1,
+                "poetry": 1,
+                "forestry": 1,
+                "fisheries management": 1,
+                "pompeii location of skeletons": 1
+            }
+        },
+        {
+            "field": "creator",
+            "terms": { 
+                "robinson, frank b.": 1,
+                "vandal athletics": 1,
+                "becker, devin": 1,
+                "thompson, j. b.": 1,
+                "reischel, t.s.": 1,
+                "bjornn, t.c.": 1,
+                "pompeii in pictures": 1
+            }
+        },
+        {
+            "field": "format",
+            "terms": { 
+                "video/mp4": 2,
+                "image/jpg": 2,
+                "audio/mpeg": 1,
+                "application/pdf": 1
+            }
+        }
+        
+    ]
+}

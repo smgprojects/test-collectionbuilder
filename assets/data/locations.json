@@ -1,0 +1,9 @@
+{ "locations": [
+    { "location" : "moscow, idaho", "count" : 2, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#moscow,%20idaho" },
+    { "location" : "ashland, or", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#ashland,%20or" },
+    { "location" : "bonner county", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#bonner%20county" },
+    { "location" : "priest river experimental forest", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#priest%20river%20experimental%20forest" },
+    { "location" : "benton creek", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#benton%20creek" },
+    { "location" : "bonneville dam", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#bonneville%20dam" },
+    { "location" : "pompeii", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#pompeii" }
+]}

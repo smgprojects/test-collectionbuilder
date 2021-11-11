@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repository xmlns="http://www.openarchives.org/OAI/2.0/static-repository" 
+            xmlns:oai="http://www.openarchives.org/OAI/2.0/" 
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+            xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository 
+                                http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+    <Identify>
+        <oai:repositoryName>CollectionBuilder CSV</oai:repositoryName>
+        <oai:baseURL>http://gateway.institution.org/oai/shawngraham.github.io/test-collectionbuilder/oai.xml</oai:baseURL>
+        <oai:protocolVersion>2.0</oai:protocolVersion>
+        <oai:adminEmail>libstatic.uidaho@gmail.com</oai:adminEmail>
+        <oai:earliestDatestamp>2021-11-11</oai:earliestDatestamp>
+        <oai:deletedRecord>no</oai:deletedRecord>
+        <oai:granularity>YYYY-MM-DD</oai:granularity>
+    </Identify>
+    <ListMetadataFormats>
+        <oai:metadataFormat>
+            <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+            <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+            <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+        </oai:metadataFormat>
+    </ListMetadataFormats>
+    <ListRecords metadataPrefix="oai_dc">
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/example_003</oai:identifier> 
+                <oai:datestamp>2021-11-11</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Good News – Power (radio episode)</dc:title>
+                    <dc:creator>Robinson, Frank B.</dc:creator>
+                    <dc:date>1905-04-30</dc:date><dc:description>Example locally hosted audio item. Psychiana radio program episode begins with assurance that there is a Power that can get people what they desire. Robinson then discusses his early life failures and childhood seeking of some force that could turn his failures into success. He asserts the God-Power can turn our failures into success and bring us material and spiritual abundance.</dc:description>
+                    <dc:subject>Frank B. Robinson; Failure; Success; Material Abundance</dc:subject>
+                    <dc:type>Audio</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dc:rights>
+                    <dc:identifier>example_003</dc:identifier>
+                    <dc:identifier>https://shawngraham.github.io/test-collectionbuilder/items/example_003.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/example_004</oai:identifier> 
+                <oai:datestamp>2021-11-11</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>University of Idaho vs. University of Southern California (Football), 10/30/1925</dc:title>
+                    <dc:creator>Vandal Athletics</dc:creator>
+                    <dc:date>1925-10-30</dc:date><dc:description>Example YouTube video item. Idaho Football vs. University of Southern California 10/30/1925 at Neale Stadium in Moscow, ID. Score: 7 - 51 (L).</dc:description>
+                    <dc:subject>American Football</dc:subject>
+                    <dc:type>Image;MovingImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dc:rights>
+                    <dc:identifier>example_004</dc:identifier>
+                    <dc:identifier>https://shawngraham.github.io/test-collectionbuilder/items/example_004.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/example_005</oai:identifier> 
+                <oai:datestamp>2021-11-11</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Interview with K. Silem Mohammad</dc:title>
+                    <dc:creator>Becker, Devin</dc:creator>
+                    <dc:date>2014-06-16</dc:date><dc:description>Example Vimeo video item. Oral history interview with poet K. Silem Mohammad discussing recent changes in writing practices that occurred due to the advent of the computer and the arrival of the digital age.</dc:description>
+                    <dc:subject>Poetry</dc:subject>
+                    <dc:type>Image;MovingImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dc:rights>
+                    <dc:identifier>example_005</dc:identifier>
+                    <dc:identifier>https://shawngraham.github.io/test-collectionbuilder/items/example_005.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/example_006</oai:identifier> 
+                <oai:datestamp>2021-11-11</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Ford pumper used for slash burning control</dc:title>
+                    <dc:creator>Thompson, J. B.</dc:creator>
+                    <dc:date>1932-09-01</dc:date><dc:description>Example image item externally hosted on CONTENTdm. Ford pumper used for slash burning control. September 1932. From the photo series depicting the broadcast burn at the mouth of Benton Creek.</dc:description>
+                    <dc:subject>forestry</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>example_006</dc:identifier>
+                    <dc:identifier>https://shawngraham.github.io/test-collectionbuilder/items/example_006.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/example_007</oai:identifier> 
+                <oai:datestamp>2021-11-11</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Influence of Fishway Placement on Fallback of Adult Salmon at the Bonneville Dam on the Columbia River</dc:title>
+                    <dc:creator>Reischel, T.S.; Bjornn, T.C.</dc:creator>
+                    <dc:date>1905-06-25</dc:date><dc:description>Example metadata-only record with link to external source. Journal article.</dc:description>
+                    <dc:subject>fisheries management</dc:subject>
+                    <dc:type>Text</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>example_007</dc:identifier>
+                    <dc:identifier>https://shawngraham.github.io/test-collectionbuilder/items/example_007.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:shawngraham.github.io:test-collectionbuilder/example_008</oai:identifier> 
+                <oai:datestamp>2021-11-11</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>I.3.30 Pompeii. Small house. Excavated 1872.</dc:title>
+                    <dc:creator>Pompeii in Pictures</dc:creator>
+                    <dc:date>2002</dc:date><dc:description>I.3.30 Pompeii. Entrance fauces or corridor
+looking north, across the west portico of the peristyle garden.</dc:description>
+                    <dc:subject>Pompeii location of skeletons</dc:subject>
+                    <dc:type>Image</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>example_008</dc:identifier>
+                    <dc:identifier>https://shawngraham.github.io/test-collectionbuilder/items/example_008.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+    </ListRecords>
+</Repository>

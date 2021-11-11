@@ -1,0 +1,18 @@
+{ "subjects": [
+    { "subject" : "frank b. robinson", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#frank%20b.%20robinson" },
+    { "subject" : "failure", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#failure" },
+    { "subject" : "success", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#success" },
+    { "subject" : "material abundance", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#material%20abundance" },
+    { "subject" : "american football", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#american%20football" },
+    { "subject" : "poetry", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#poetry" },
+    { "subject" : "forestry", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#forestry" },
+    { "subject" : "fisheries management", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#fisheries%20management" },
+    { "subject" : "pompeii location of skeletons", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#pompeii%20location%20of%20skeletons" },
+    { "subject" : "robinson, frank b.", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#robinson,%20frank%20b." },
+    { "subject" : "vandal athletics", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#vandal%20athletics" },
+    { "subject" : "becker, devin", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#becker,%20devin" },
+    { "subject" : "thompson, j. b.", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#thompson,%20j.%20b." },
+    { "subject" : "reischel, t.s.", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#reischel,%20t.s." },
+    { "subject" : "bjornn, t.c.", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#bjornn,%20t.c." },
+    { "subject" : "pompeii in pictures", "count" : 1, "link" : "https://shawngraham.github.io/test-collectionbuilder/browse.html#pompeii%20in%20pictures" }
+]}

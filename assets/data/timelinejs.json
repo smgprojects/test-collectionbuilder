@@ -1,0 +1,110 @@
+{
+    "title": {
+        "media": {
+          "url": "",
+          "caption": null,
+          "credit": "CollectionBuilder CSV"
+        },
+        "text": {
+          "headline": "CollectionBuilder CSV Timeline",
+          "text": "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "/test-collectionbuilder/objects/small/demo_003_sm.jpg",
+          "caption": "Good News – Power (radio episode)",
+          "link": "/test-collectionbuilder/items/example_003.html"
+        },
+        "start_date": { 
+          
+          "month": "04",
+          "day": "30",
+          "year": "1905"
+        },
+        "text": {
+          "headline": "Good News – Power (radio episode)",
+          "text": "Example locally hosted audio item. Psychiana radio program episode begins with assurance that there is a Power that can get people what they desire. Robinson then discusses his early life failures and childhood seeking of some force that could turn his failures into success. He asserts the God-Power can turn our failures into success and bring us material and spiritual abundance."
+        }
+      },{
+        "media": {
+          "url": "https://img.youtube.com/vi/CVXQ3X6Q8oU/hqdefault.jpg",
+          "caption": "University of Idaho vs. University of Southern California (Football), 10/30/1925",
+          "link": "/test-collectionbuilder/items/example_004.html"
+        },
+        "start_date": { 
+          
+          "month": "10",
+          "day": "30",
+          "year": "1925"
+        },
+        "text": {
+          "headline": "University of Idaho vs. University of Southern California (Football), 10/30/1925",
+          "text": "Example YouTube video item. Idaho Football vs. University of Southern California 10/30/1925 at Neale Stadium in Moscow, ID. Score: 7 - 51 (L)."
+        }
+      },{
+        "media": {
+          "url": "https://vimeo.com/464555587",
+          "caption": "Interview with K. Silem Mohammad",
+          "link": "/test-collectionbuilder/items/example_005.html"
+        },
+        "start_date": { 
+          
+          "month": "06",
+          "day": "16",
+          "year": "2014"
+        },
+        "text": {
+          "headline": "Interview with K. Silem Mohammad",
+          "text": "Example Vimeo video item. Oral history interview with poet K. Silem Mohammad discussing recent changes in writing practices that occurred due to the advent of the computer and the arrival of the digital age."
+        }
+      },{
+        "media": {
+          "url": "https://digital.lib.uidaho.edu/digital/iiif/expforsav/390/full/pct:40/0/default.jpg",
+          "caption": "Ford pumper used for slash burning control",
+          "link": "/test-collectionbuilder/items/example_006.html"
+        },
+        "start_date": { 
+          
+          "month": "09",
+          "day": "01",
+          "year": "1932"
+        },
+        "text": {
+          "headline": "Ford pumper used for slash burning control",
+          "text": "Example image item externally hosted on CONTENTdm. Ford pumper used for slash burning control. September 1932. From the photo series depicting the broadcast burn at the mouth of Benton Creek."
+        }
+      },{
+        "media": {
+          "url": "https://www.doi.org/10.1577/M02-113",
+          "caption": "Influence of Fishway Placement on Fallback of Adult Salmon at the Bonneville Dam on the Columbia River",
+          "link": "/test-collectionbuilder/items/example_007.html"
+        },
+        "start_date": { 
+          
+          "month": "06",
+          "day": "25",
+          "year": "1905"
+        },
+        "text": {
+          "headline": "Influence of Fishway Placement on Fallback of Adult Salmon at the Bonneville Dam on the Columbia River",
+          "text": "Example metadata-only record with link to external source. Journal article."
+        }
+      },{
+        "media": {
+          "url": "http://pompeiiinpictures.com/pompeiiinpictures/R1/1%2003%2030%20p2_files/image003.jpg",
+          "caption": "I.3.30 Pompeii. Small house. Excavated 1872.",
+          "link": "/test-collectionbuilder/items/example_008.html"
+        },
+        "start_date": { 
+          
+          "year": "2002"
+        },
+        "text": {
+          "headline": "I.3.30 Pompeii. Small house. Excavated 1872.",
+          "text": "I.3.30 Pompeii. Entrance fauces or corridor\r\nlooking north, across the west portico of the peristyle garden."
+        }
+      }
+    ]
+}

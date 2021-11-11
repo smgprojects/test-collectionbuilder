@@ -1,0 +1,122 @@
+{ "objects": [{ 
+        "title": "Good News – Power (radio episode)",
+        "creator": "Robinson, Frank B.",
+        "date": "1905-04-30",
+        "description": "Example locally hosted audio item. Psychiana radio program episode begins with assurance that there is a Power that can get people what they desire. Robinson then discusses his early life failures and childhood seeking of some force that could turn his failures into success. He asserts the God-Power can turn our failures into success and bring us material and spiritual abundance.",
+        "subject": "Frank B. Robinson; Failure; Success; Material Abundance",
+        "location": "Moscow, Idaho",
+        "latitude": "46.733001",
+        "longitude": "-116.991779",
+        "source": "Psychiana Digital Collection, Digital Initiatives, University of Idaho Library, https://www.lib.uidaho.edu/digital/psychiana/",
+        "identifier": "Good_News_08",
+        "type": "Audio",
+        "format": "audio/mpeg",
+        "language": "eng",
+        
+        "rightsstatement": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+        "object_thumb": "https://shawngraham.github.io/test-collectionbuilder/objects/thumbs/demo_003_th.jpg",
+        "object_location": "https://shawngraham.github.io/test-collectionbuilder/objects/demo_003.mp3",
+        "reference_url": "https://shawngraham.github.io/test-collectionbuilder/items/example_003.html"
+    },
+    { 
+        "title": "University of Idaho vs. University of Southern California (Football), 10/30/1925",
+        "creator": "Vandal Athletics",
+        "date": "1925-10-30",
+        "description": "Example YouTube video item. Idaho Football vs. University of Southern California 10/30/1925 at Neale Stadium in Moscow, ID. Score: 7 - 51 (L).",
+        "subject": "American Football",
+        "location": "Moscow, Idaho",
+        "latitude": "46.726113",
+        "longitude": "-117.015671",
+        "source": "Vandal Video Collection, Digital Initiatives, University of Idaho Library, https://www.lib.uidaho.edu/digital/vandalvideo/",
+        "identifier": "MG 23, Item 29",
+        "type": "Image;MovingImage",
+        "format": "video/mp4",
+        "language": "eng",
+        "rights": "In Copyright - Educational Use Permitted. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+        "object_thumb": "https://img.youtube.com/vi/CVXQ3X6Q8oU/mqdefault.jpg",
+        "object_location": "https://youtu.be/CVXQ3X6Q8oU",
+        "reference_url": "https://shawngraham.github.io/test-collectionbuilder/items/example_004.html"
+    },
+    { 
+        "title": "Interview with K. Silem Mohammad",
+        "creator": "Becker, Devin",
+        "date": "2014-06-16",
+        "description": "Example Vimeo video item. Oral history interview with poet K. Silem Mohammad discussing recent changes in writing practices that occurred due to the advent of the computer and the arrival of the digital age.",
+        "subject": "Poetry",
+        "location": "Ashland, OR",
+        "latitude": "42.1916714",
+        "longitude": "-122.728533",
+        "source": "CTRL+Shift, Center for Digital Inquiry and Learning, University of Idaho Library, https://ctrl-shift.org/",
+        
+        "type": "Image;MovingImage",
+        "format": "video/mp4",
+        "language": "eng",
+        "rights": "In Copyright - Educational Use Permitted. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+        
+        "object_location": "https://vimeo.com/464555587",
+        "reference_url": "https://shawngraham.github.io/test-collectionbuilder/items/example_005.html"
+    },
+    { 
+        "title": "Ford pumper used for slash burning control",
+        "creator": "Thompson, J. B.",
+        "date": "1932-09-01",
+        "description": "Example image item externally hosted on CONTENTdm. Ford pumper used for slash burning control. September 1932. From the photo series depicting the broadcast burn at the mouth of Benton Creek.",
+        "subject": "forestry",
+        "location": "Bonner County;Priest River Experimental Forest;Benton Creek",
+        "latitude": "48.34472222",
+        "longitude": "-116.8483333",
+        "source": "Experimental Forest and Savenac Nursery Archive, Digital Initiatives, University of Idaho Library, https://www.lib.uidaho.edu/digital/expforest/",
+        "identifier": "FirePump1",
+        "type": "Image;StillImage",
+        "format": "image/jpg",
+        "language": "eng",
+        "rights": "Material produced by the United States Forest Service and is in Public Domain. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+        "object_thumb": "https://digital.lib.uidaho.edu/digital/iiif/expforsav/390/full/pct:20/0/default.jpg",
+        "object_location": "https://digital.lib.uidaho.edu/digital/iiif/expforsav/390/full/max/0/default.jpg",
+        "reference_url": "https://shawngraham.github.io/test-collectionbuilder/items/example_006.html"
+    },
+    { 
+        "title": "Influence of Fishway Placement on Fallback of Adult Salmon at the Bonneville Dam on the Columbia River",
+        "creator": "Reischel, T.S.; Bjornn, T.C.",
+        "date": "1905-06-25",
+        "description": "Example metadata-only record with link to external source. Journal article.",
+        "subject": "fisheries management",
+        "location": "Bonneville Dam",
+        "latitude": "45.6442837",
+        "longitude": "-121.9428256",
+        "source": "North American Journal of Fisheries Management, vol. 23, issue 4, p. 1215-1224. DOI: 10.1577/M02-113",
+        "identifier": "DOI:10.1577/M02-113",
+        "type": "Text",
+        "format": "application/pdf",
+        "language": "eng",
+        "rights": "Metadata-only record, please check publication for rights",
+        
+        
+        "object_location": "https://www.doi.org/10.1577/M02-113",
+        "reference_url": "https://shawngraham.github.io/test-collectionbuilder/items/example_007.html"
+    },
+    { 
+        "title": "I.3.30 Pompeii. Small house. Excavated 1872.",
+        "creator": "Pompeii in Pictures",
+        "date": "2002",
+        "description": "I.3.30 Pompeii. Entrance fauces or corridor\r\nlooking north, across the west portico of the peristyle garden.",
+        "subject": "Pompeii location of skeletons",
+        "location": "Pompeii",
+        "latitude": "43.1845004",
+        "longitude": "-84.6006483",
+        "source": "Pompeii in Pictures",
+        
+        "type": "Image",
+        "format": "image/jpg",
+        "language": "eng",
+        
+        
+        "object_thumb": "http://pompeiiinpictures.com/pompeiiinpictures/R1/1%2003%2030%20p2_files/image003.jpg",
+        "object_location": "http://pompeiiinpictures.com/pompeiiinpictures/R1/1%2003%2030%20p2_files/image003.jpg",
+        "reference_url": "https://shawngraham.github.io/test-collectionbuilder/items/example_008.html"
+    }
+    
+] }

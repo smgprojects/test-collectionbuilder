@@ -1,0 +1,23 @@
+{ 
+    "title": "CollectionBuilder CSV",
+    "url": "https://shawngraham.github.io/test-collectionbuilder/",
+    "image": "", 
+    "description": "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology.",
+    "publisher": { 
+        "name": "Digital Initiatives, University of Idaho Library", 
+        "url": "https://www.lib.uidaho.edu/digital/", 
+        "logo": "https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png" 
+    },
+    "date_start": "1905",
+    "date_end": "2014",
+    "objects": {
+        "audio/mpeg": "1",
+        "video/mp4": "2",
+        "image/jpg": "2",
+        "application/pdf": "1"
+        
+    },
+    "data": "https://shawngraham.github.io/test-collectionbuilder/assets/data/datapackage.json",
+    "last_build_date": "2021-11-11"
+}
+
