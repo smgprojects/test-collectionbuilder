@@ -141,17 +141,17 @@
             "type":"Feature",
             "geometry":{
                 "type":"Point",
-                "coordinates":[-84.6006483,43.1845004]
+                "coordinates":[14.4969,43.1845004]
             },            
             "properties":{
                 "title": "I.3.30 Pompeii. Small house. Excavated 1872.",
                 "creator": "Pompeii in Pictures",
-                "date": "2002",
+                "date": "79",
                 "description": "I.3.30 Pompeii. Entrance fauces or corridor\r\nlooking north, across the west portico of the peristyle garden.",
                 "subject": "Pompeii location of skeletons",
                 "location": "Pompeii",
                 "latitude": "43.1845004",
-                "longitude": "-84.6006483",
+                "longitude": "14.4969",
                 "source": "Pompeii in Pictures",
                 
                 "type": "Image",
