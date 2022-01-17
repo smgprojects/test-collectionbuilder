@@ -3,9 +3,11 @@
     <div class="card-body">
         <dl>
             <dt>Preferred Citation:</dt>
-            <dd>"{{ page.title }}", {{ site.title }}, {{ site.organization-name }}</dd>
-            <dt>Reference Link:</dt>
+            <dd>{{ page.author }}. {{ page.date }}. "{{ page.title }}", {{ site.organization-name }}, Carleton University</dd>
+            <dt>Showcase Link:</dt>
             <dd>{{ page.url | absolute_url }}</dd>
+            <dt>CURVE Repo Link:</dt>
+            <dd>{{ page.object_location | relative_url }}</dd>
         </dl>
     </div>
 </div>
