@@ -1,8 +1,8 @@
 {
     "profile": "data-package",
-    "name": "department-of-history-carleton-university-data",
-    "title": "Department of History, Carleton University Data",
-    "description": "Metadata and data derived from Department of History, Carleton University. This site draws from the Carleton Institutional repository of student theses, and other sources, to bring all of our students&#39; degree work into one location. Built with CollectionBuilder from the Digital Initiatives, University of Idaho Library",
+    "name": "degree-research-showcase-data",
+    "title": "Degree Research Showcase Data",
+    "description": "Metadata and data derived from Degree Research Showcase. This site draws from the Carleton Institutional repository of student theses, and other sources, to bring all of our students&#39; degree work into one location. Built with CollectionBuilder from the Digital Initiatives, University of Idaho Library",
     "keywords":  ["carleton university,history,theses,students"],
     "homepage": "https://shawngraham.github.io/test-collectionbuilder/",
     "contributors": [
@@ -25,7 +25,7 @@
         {
             "name": "facets-json",
             "path": "facets.json",
-            "title": "Department of History, Carleton University Metadata Facets",
+            "title": "Degree Research Showcase Metadata Facets",
             "description":"Unique values and counts of metadata facet fields.",
             "format":"json",
             "profile": "data-resource"
@@ -34,7 +34,7 @@
         {
             "name": "subject-csv",
             "path": "subjects.csv",
-            "title": "Department of History, Carleton University metadata subject counts in csv",
+            "title": "Degree Research Showcase metadata subject counts in csv",
             "description": "Unique values and counts of metadata subject fields.",
             "format":"csv",
             "profile":"tabular-data-resource",
@@ -61,7 +61,7 @@
         {
             "name": "subjects-json",
             "path": "subjects.json",
-            "title": "Department of History, Carleton University  metadata subject counts in json",
+            "title": "Degree Research Showcase  metadata subject counts in json",
             "description":"Unique values and counts of metadata subject fields.",
             "format":"json",
             "profile": "data-resource"
@@ -70,7 +70,7 @@
         {
             "name": "locations-csv",
             "path": "subjects.csv",
-            "title": "Department of History, Carleton University metadata location counts in csv",
+            "title": "Degree Research Showcase metadata location counts in csv",
             "description": "Unique values and counts of metadata location fields.",
             "format":"csv",
             "profile":"tabular-data-resource",
@@ -97,7 +97,7 @@
         {
             "name": "locations-json",
             "path": "locations.json",
-            "title": "Department of History, Carleton University metadata location counts in json",
+            "title": "Degree Research Showcase metadata location counts in json",
             "description":"Unique values and counts of metadata location fields.",
             "format":"json",
             "profile": "data-resource"
@@ -106,7 +106,7 @@
         {
             "name": "geodata-json",
             "path": "geodata.json",
-            "title": "Department of History, Carleton University geographic metadata",
+            "title": "Degree Research Showcase geographic metadata",
             "description": "Geojson data containing all objects with lat-longs and associated descriptive metadata.",
             "format":"json",
             "profile": "data-resource"
@@ -115,7 +115,7 @@
         {
             "name": "timeline-json",
             "path": "timelinejs.json",
-            "title": "Department of History, Carleton University timeline metadata",
+            "title": "Degree Research Showcase timeline metadata",
             "description": "Time-based metadata formatted for TimelineJS or other applications.",
             "format":"json",
             "profile": "data-resource"
@@ -123,16 +123,16 @@
         {
             "name": "metadata-csv",
             "path": "metadata.csv",
-            "title": "Department of History, Carleton University full metadata in csv",
-            "description": "Complete metadata export for Department of History, Carleton University objects.",
+            "title": "Degree Research Showcase full metadata in csv",
+            "description": "Complete metadata export for Degree Research Showcase objects.",
             "format":"csv",
             "profile":"data-resource"
         },
         {
             "name": "metadata-json",
             "path": "metadata.json",
-            "title": "Department of History, Carleton University full metadata in json",
-            "description": "Complete metadata export for Department of History, Carleton University objects.",
+            "title": "Degree Research Showcase full metadata in json",
+            "description": "Complete metadata export for Degree Research Showcase objects.",
             "format":"json",
             "profile":"data-resource"
         }
