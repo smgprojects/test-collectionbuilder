@@ -8,13 +8,10 @@
         "url": "https:/electricarchaeology.ca/", 
         "logo": "https://graddh.netlify.app/images/dhcu-logo.png" 
     },
-    "date_start": "0079",
-    "date_end": "2014",
+    "date_start": "1958",
+    "date_end": "2021",
     "objects": {
-        "audio/mpeg": "1",
-        "video/mp4": "2",
-        "image/jpg": "2",
-        "application/pdf": "1"
+        "application/pdf": "316"
         
     },
     "data": "https://shawngraham.github.io/test-collectionbuilder/assets/data/datapackage.json",

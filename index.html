@@ -185,11 +185,7 @@
 </div><script>
     /* add item data */
     // title,objectid,image_thumb/small
-    var carouselItems = [ [ "Good News – Power (radio episode)", "example_003", 
-    "/test-collectionbuilder/objects/thumbs/demo_003_th.jpg" ], [ "University of Idaho vs. University of Southern California (Football), 10/30/1925", "example_004", 
-    "https://img.youtube.com/vi/CVXQ3X6Q8oU/mqdefault.jpg" ], [ "Ford pumper used for slash burning control", "example_006", 
-    "https://digital.lib.uidaho.edu/digital/iiif/expforsav/390/full/pct:20/0/default.jpg" ], [ "I.3.30 Pompeii. Small house. Excavated 1872.", "example_008", 
-    "http://pompeiiinpictures.com/pompeiiinpictures/R1/1%2003%2030%20p2_files/image003.jpg" ]];
+    var carouselItems = [ ];
     /* shuffle items */
     carouselItems.sort(function() { return 0.5 - Math.random() });
 
@@ -199,7 +195,7 @@
     var slides = "";
     var indicators = "";
     var i, itemImg, itemLink;
-    for (i=0; i < 4; i++) {
+    for (i=0; i < 0; i++) {
         // calculate item image location
         itemImg = carouselItems[i][2];
         // calculate item link
@@ -231,7 +227,7 @@
     <div class="card mb-3">
   <div class="card-body">
     <h5 class="card-title">Time Span</h5>
-    <p class="card-text h5">0079 to 2014
+    <p class="card-text h5">1958 to 2021
       <br><a href="/test-collectionbuilder/timeline.html" class="btn btn-sm btn-outline-secondary mt-2">View Timeline</a>
     </p>
   </div>
@@ -244,11 +240,7 @@
         <h5 class="card-title">Top Subjects</h5>
         <p class="card-text">
             
-            <a class="btn btn-sm btn-info m-1" href="/test-collectionbuilder/browse.html#frank%20b.%20robinson">frank b. robinson</a>
-            <a class="btn btn-sm btn-info m-1" href="/test-collectionbuilder/browse.html#failure">failure</a>
-            <a class="btn btn-sm btn-info m-1" href="/test-collectionbuilder/browse.html#success">success</a>
-            <a class="btn btn-sm btn-info m-1" href="/test-collectionbuilder/browse.html#material%20abundance">material abundance</a>
-            <a class="btn btn-sm btn-info m-1" href="/test-collectionbuilder/browse.html#american%20football">american football</a>
+            <a class="btn btn-sm btn-info m-1" href="/test-collectionbuilder/browse.html"></a>
         </p>
     </div>
 </div>
@@ -260,11 +252,7 @@
         <h5 class="card-title">Locations</h5>
         <p class="card-text">
             
-            <a class="btn btn-sm btn-outline-secondary m-1" href="/test-collectionbuilder/browse.html#moscow,%20idaho">moscow, idaho</a>
-            <a class="btn btn-sm btn-outline-secondary m-1" href="/test-collectionbuilder/browse.html#ashland,%20or">ashland, or</a>
-            <a class="btn btn-sm btn-outline-secondary m-1" href="/test-collectionbuilder/browse.html#bonner%20county">bonner county</a>
-            <a class="btn btn-sm btn-outline-secondary m-1" href="/test-collectionbuilder/browse.html#priest%20river%20experimental%20forest">priest river experimental forest</a>
-            <a class="btn btn-sm btn-outline-secondary m-1" href="/test-collectionbuilder/browse.html#benton%20creek">benton creek</a>
+            <a class="btn btn-sm btn-outline-secondary m-1" href="/test-collectionbuilder/browse.html"></a>
         </p>
     </div>
 </div>
@@ -275,21 +263,9 @@
     <h5 class="card-title">Objects</h5>
     <p class="card-text">
       
-      2
-       
-      <a class="text-dark" href="/test-collectionbuilder/browse.html#image">Images <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="/test-collectionbuilder/assets/lib/cb-icons.svg#icon-image"/></svg></a><br>
+      316
       
-      1
-      
-      <a class="text-dark" href="/test-collectionbuilder/browse.html#audio">Audio <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="/test-collectionbuilder/assets/lib/cb-icons.svg#icon-audio"/></svg></a><br>
-      
-      2
-      
-      <a class="text-dark" href="/test-collectionbuilder/browse.html#video">Videos <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="/test-collectionbuilder/assets/lib/cb-icons.svg#icon-video"/></svg></a><br>
-      
-      1
-      
-      <a class="text-dark" href="/test-collectionbuilder/browse.html#record">Records <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="/test-collectionbuilder/assets/lib/cb-icons.svg#icon-default"/></svg></a><br>
+      <a class="text-dark" href="/test-collectionbuilder/browse.html#pdf">PDFs <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="/test-collectionbuilder/assets/lib/cb-icons.svg#icon-pdf"/></svg></a><br>
       <a class="btn btn-sm btn-outline-secondary mt-2" href="/test-collectionbuilder/data.html">View table</a>
     </p>
   </div>
