@@ -18,9 +18,9 @@ source-code: https://github.com/shawngraham/test-collectionbuilder
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Department of History, Carleton University
+title: Degree Research Showcase
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A showcase for student theses, major research essays, and other projects
+tagline: A showcase for graduate student theses, major research essays, and other projects in the Department of History, Carleton U
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This site draws from the Carleton Institutional repository of student theses, and other sources, to bring all of our students' degree work into one location. Built with CollectionBuilder from the Digital Initiatives, University of Idaho Library"
