@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://shawngraham.github.io
+url: https://smgprojects.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /test-collectionbuilder
 # location of code, the full url to your github repository
-source-code: https://github.com/shawngraham/test-collectionbuilder
+source-code: https://github.com/smgprojects/test-collectionbuilder
 
 ##########
 # SITE SETTINGS
