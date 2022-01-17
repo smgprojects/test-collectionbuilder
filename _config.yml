@@ -18,21 +18,21 @@ source-code: https://github.com/shawngraham/test-collectionbuilder
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Shawn Plays With CollectionBuilder CSV
+title: Department of History, Carleton University
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: A showcase for student theses, major research essays, and other projects
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "yeah! yeah! yeah!"
+description: "This site draws from the Carleton Institutional repository of student theses, and other sources, to bring all of our students' degree work into one location. Built with CollectionBuilder from the Digital Initiatives, University of Idaho Library"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: carleton university,history,theses,students
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: SMG Adapting CollectionBuilder
 # Organization branding
-organization-name: "SMG Playing with the Template from the Digital Initiatives, University of Idaho Library"
-organization-link: https:/electricarchaeology.ca/
-organization-logo-banner: https://graddh.netlify.app/images/dhcu-logo.png
-organization-logo-nav: https://graddh.netlify.app/images/dhcu-logo.png
+organization-name: "Department of History"
+organization-link: https://carleton.ca/history
+organization-logo-banner: https://cu-production.s3.amazonaws.com/theme-admissions-2020/assets/img/cu-white-outlined-21.svg
+organization-logo-nav: https://cu-production.s3.amazonaws.com/theme-admissions-2020/assets/img/cu-white-outlined-21.svg
 
 ##########
 # COLLECTION SETTINGS
