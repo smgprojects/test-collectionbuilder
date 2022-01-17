@@ -14,8 +14,11 @@ credits: true
 
 ## About This Showcase
 
-Graduate student MA and PhD theses are collected by the University and deposited in an institutional repository. Major research essays, and major research projects are not. MREs and MRPs are, more and more each year, also accompanied by substantial digital projects. These will be gathered here as well. This is a project of the Department of History's Communications Committee.
+Graduate student MA and PhD theses are collected by the University and deposited in an institutional repository. Major research essays, and major research projects are not. MREs and MRPs are, more and more each year, also accompanied by substantial digital projects. These will be gathered here as well. 
 
+This is a project of the Department of History's Communications Committee.
+
+January 2022
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
