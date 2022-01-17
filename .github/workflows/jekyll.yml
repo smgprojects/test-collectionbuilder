@@ -20,13 +20,13 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.7 # Not needed with a .ruby-version file
-         # bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
 
       # use jekyll-action-ts to build
       # https://github.com/limjh16/jekyll-action-ts
       - uses: limjh16/jekyll-action-ts@v2
-        #with:
-        #  enable_cache: true
+        with:
+          enable_cache: true
 
       # use actions-gh-pages to deploy
       # https://github.com/peaceiris/actions-gh-pages
