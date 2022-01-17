@@ -5,7 +5,7 @@
             xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository 
                                 http://www.openarchives.org/OAI/2.0/static-repository.xsd">
     <Identify>
-        <oai:repositoryName>Shawn Plays With CollectionBuilder CSV</oai:repositoryName>
+        <oai:repositoryName>Department of History, Carleton University</oai:repositoryName>
         <oai:baseURL>http://gateway.institution.org/oai/shawngraham.github.io/test-collectionbuilder/oai.xml</oai:baseURL>
         <oai:protocolVersion>2.0</oai:protocolVersion>
         <oai:adminEmail>libstatic.uidaho@gmail.com</oai:adminEmail>

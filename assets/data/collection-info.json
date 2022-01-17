@@ -1,12 +1,12 @@
 { 
-    "title": "Shawn Plays With CollectionBuilder CSV",
+    "title": "Department of History, Carleton University",
     "url": "https://shawngraham.github.io/test-collectionbuilder/",
     "image": "https://electricarchaeologist.files.wordpress.com/2021/08/laocoon.jpg", 
-    "description": "yeah! yeah! yeah!",
+    "description": "This site draws from the Carleton Institutional repository of student theses, and other sources, to bring all of our students' degree work into one location. Built with CollectionBuilder from the Digital Initiatives, University of Idaho Library",
     "publisher": { 
-        "name": "SMG Playing with the Template from the Digital Initiatives, University of Idaho Library", 
-        "url": "https:/electricarchaeology.ca/", 
-        "logo": "https://graddh.netlify.app/images/dhcu-logo.png" 
+        "name": "Department of History", 
+        "url": "https://carleton.ca/history", 
+        "logo": "https://cu-production.s3.amazonaws.com/theme-admissions-2020/assets/img/cu-white-outlined-21.svg" 
     },
     "date_start": "1958",
     "date_end": "2021",

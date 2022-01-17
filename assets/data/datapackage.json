@@ -1,14 +1,14 @@
 {
     "profile": "data-package",
-    "name": "shawn-plays-with-collectionbuilder-csv-data",
-    "title": "Shawn Plays With CollectionBuilder CSV Data",
-    "description": "Metadata and data derived from Shawn Plays With CollectionBuilder CSV. yeah! yeah! yeah!",
-    "keywords":  ["idaho","history","inland northwest"],
+    "name": "department-of-history-carleton-university-data",
+    "title": "Department of History, Carleton University Data",
+    "description": "Metadata and data derived from Department of History, Carleton University. This site draws from the Carleton Institutional repository of student theses, and other sources, to bring all of our students&#39; degree work into one location. Built with CollectionBuilder from the Digital Initiatives, University of Idaho Library",
+    "keywords":  ["carleton university,history,theses,students"],
     "homepage": "https://shawngraham.github.io/test-collectionbuilder/",
     "contributors": [
         {
-            "title": "SMG Playing with the Template from the Digital Initiatives, University of Idaho Library",
-            "path": "https:/electricarchaeology.ca/",
+            "title": "Department of History",
+            "path": "https://carleton.ca/history",
             "role": "author"
         }
     ],
@@ -25,7 +25,7 @@
         {
             "name": "facets-json",
             "path": "facets.json",
-            "title": "Shawn Plays With CollectionBuilder CSV Metadata Facets",
+            "title": "Department of History, Carleton University Metadata Facets",
             "description":"Unique values and counts of metadata facet fields.",
             "format":"json",
             "profile": "data-resource"
@@ -34,7 +34,7 @@
         {
             "name": "subject-csv",
             "path": "subjects.csv",
-            "title": "Shawn Plays With CollectionBuilder CSV metadata subject counts in csv",
+            "title": "Department of History, Carleton University metadata subject counts in csv",
             "description": "Unique values and counts of metadata subject fields.",
             "format":"csv",
             "profile":"tabular-data-resource",
@@ -61,7 +61,7 @@
         {
             "name": "subjects-json",
             "path": "subjects.json",
-            "title": "Shawn Plays With CollectionBuilder CSV  metadata subject counts in json",
+            "title": "Department of History, Carleton University  metadata subject counts in json",
             "description":"Unique values and counts of metadata subject fields.",
             "format":"json",
             "profile": "data-resource"
@@ -70,7 +70,7 @@
         {
             "name": "locations-csv",
             "path": "subjects.csv",
-            "title": "Shawn Plays With CollectionBuilder CSV metadata location counts in csv",
+            "title": "Department of History, Carleton University metadata location counts in csv",
             "description": "Unique values and counts of metadata location fields.",
             "format":"csv",
             "profile":"tabular-data-resource",
@@ -97,7 +97,7 @@
         {
             "name": "locations-json",
             "path": "locations.json",
-            "title": "Shawn Plays With CollectionBuilder CSV metadata location counts in json",
+            "title": "Department of History, Carleton University metadata location counts in json",
             "description":"Unique values and counts of metadata location fields.",
             "format":"json",
             "profile": "data-resource"
@@ -106,7 +106,7 @@
         {
             "name": "geodata-json",
             "path": "geodata.json",
-            "title": "Shawn Plays With CollectionBuilder CSV geographic metadata",
+            "title": "Department of History, Carleton University geographic metadata",
             "description": "Geojson data containing all objects with lat-longs and associated descriptive metadata.",
             "format":"json",
             "profile": "data-resource"
@@ -115,7 +115,7 @@
         {
             "name": "timeline-json",
             "path": "timelinejs.json",
-            "title": "Shawn Plays With CollectionBuilder CSV timeline metadata",
+            "title": "Department of History, Carleton University timeline metadata",
             "description": "Time-based metadata formatted for TimelineJS or other applications.",
             "format":"json",
             "profile": "data-resource"
@@ -123,16 +123,16 @@
         {
             "name": "metadata-csv",
             "path": "metadata.csv",
-            "title": "Shawn Plays With CollectionBuilder CSV full metadata in csv",
-            "description": "Complete metadata export for Shawn Plays With CollectionBuilder CSV objects.",
+            "title": "Department of History, Carleton University full metadata in csv",
+            "description": "Complete metadata export for Department of History, Carleton University objects.",
             "format":"csv",
             "profile":"data-resource"
         },
         {
             "name": "metadata-json",
             "path": "metadata.json",
-            "title": "Shawn Plays With CollectionBuilder CSV full metadata in json",
-            "description": "Complete metadata export for Shawn Plays With CollectionBuilder CSV objects.",
+            "title": "Department of History, Carleton University full metadata in json",
+            "description": "Complete metadata export for Department of History, Carleton University objects.",
             "format":"json",
             "profile":"data-resource"
         }
